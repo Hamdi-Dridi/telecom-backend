@@ -1,0 +1,44 @@
+[
+  {
+    "id": "period_2026_01",
+    "label": "Janvier 2026",
+    "month": 1,
+    "year": 2026,
+    "order": 0
+  },
+  {
+    "id": "period_2026_02",
+    "label": "Février 2026",
+    "month": 2,
+    "year": 2026,
+    "order": 1
+  },
+  {
+    "id": "period_2026_03",
+    "label": "Mars 2026",
+    "month": 3,
+    "year": 2026,
+    "order": 2
+  },
+  {
+    "id": "period_2026_04",
+    "label": "Avril 2026",
+    "month": 4,
+    "year": 2026,
+    "order": 3
+  },
+  {
+    "id": "period_2026_05",
+    "label": "Mai 2026",
+    "month": 5,
+    "year": 2026,
+    "order": 4
+  },
+  {
+    "id": "period_2026_06",
+    "label": "Juin 2026",
+    "month": 6,
+    "year": 2026,
+    "order": 5
+  }
+]

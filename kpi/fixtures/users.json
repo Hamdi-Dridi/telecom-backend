@@ -1,0 +1,12 @@
+[
+  {
+    "id": "u_seed_admin",
+    "firstName": "Amine",
+    "lastName": "Derbali",
+    "email": "amine.derbali@exemple.tn",
+    "password": "admin123",
+    "roleId": "role_admin",
+    "regionId": "region_grand_tunis",
+    "status": "active"
+  }
+]

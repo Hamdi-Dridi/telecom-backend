@@ -1,0 +1,32 @@
+[
+  {
+    "id": "group_mobile",
+    "domainId": "domain_commercial",
+    "name": "Mobile"
+  },
+  {
+    "id": "group_exp_rience_client",
+    "domainId": "domain_commercial",
+    "name": "Expérience client"
+  },
+  {
+    "id": "group_b2c",
+    "domainId": "domain_technique",
+    "name": "B2C"
+  },
+  {
+    "id": "group_b2b",
+    "domainId": "domain_technique",
+    "name": "B2B"
+  },
+  {
+    "id": "group_recouvrement",
+    "domainId": "domain_strat_gique",
+    "name": "Recouvrement"
+  },
+  {
+    "id": "group_p_l",
+    "domainId": "domain_financier",
+    "name": "P&L"
+  }
+]

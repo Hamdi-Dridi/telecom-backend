@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "result_Commercial_Mobile_Parc_Mobile_period_2026_01",
+    "kpiId": "Commercial_Mobile_Parc_Mobile",
+    "periodId": "period_2026_01",
+    "realisation": 90.4,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Commercial_Mobile_Parc_Mobile_period_2026_02",
+    "kpiId": "Commercial_Mobile_Parc_Mobile",
+    "periodId": "period_2026_02",
+    "realisation": 101.6,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Commercial_Mobile_Parc_Mobile_period_2026_03",
+    "kpiId": "Commercial_Mobile_Parc_Mobile",
+    "periodId": "period_2026_03",
+    "realisation": 95.4,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Commercial_Mobile_Parc_Mobile_period_2026_04",
+    "kpiId": "Commercial_Mobile_Parc_Mobile",
+    "periodId": "period_2026_04",
+    "realisation": 103.0,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Commercial_Mobile_Parc_Mobile_period_2026_05",
+    "kpiId": "Commercial_Mobile_Parc_Mobile",
+    "periodId": "period_2026_05",
+    "realisation": 99.3,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Commercial_Mobile_Parc_Mobile_period_2026_06",
+    "kpiId": "Commercial_Mobile_Parc_Mobile",
+    "periodId": "period_2026_06",
+    "realisation": 102.2,
+    "objectif": 100,
+    "comment": "",
+    "validation": "pending"
+  },
+  {
+    "id": "result_Commercial_Mobile_Production_THD_period_2026_01",
+    "kpiId": "Commercial_Mobile_Production_THD",
+    "periodId": "period_2026_01",
+    "realisation": 85.8,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Commercial_Mobile_Production_THD_period_2026_02",
+    "kpiId": "Commercial_Mobile_Production_THD",
+    "periodId": "period_2026_02",
+    "realisation": 77.9,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Commercial_Mobile_Production_THD_period_2026_03",
+    "kpiId": "Commercial_Mobile_Production_THD",
+    "periodId": "period_2026_03",
+    "realisation": 79.5,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Commercial_Mobile_Production_THD_period_2026_04",
+    "kpiId": "Commercial_Mobile_Production_THD",
+    "periodId": "period_2026_04",
+    "realisation": 86.8,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Commercial_Mobile_Production_THD_period_2026_05",
+    "kpiId": "Commercial_Mobile_Production_THD",
+    "periodId": "period_2026_05",
+    "realisation": 82.0,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Commercial_Mobile_Production_THD_period_2026_06",
+    "kpiId": "Commercial_Mobile_Production_THD",
+    "periodId": "period_2026_06",
+    "realisation": 87.8,
+    "objectif": 100,
+    "comment": "",
+    "validation": "pending"
+  },
+  {
+    "id": "result_Commercial_Expérience_client_NPS_period_2026_01",
+    "kpiId": "Commercial_Expérience_client_NPS",
+    "periodId": "period_2026_01",
+    "realisation": 0,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Commercial_Expérience_client_NPS_period_2026_02",
+    "kpiId": "Commercial_Expérience_client_NPS",
+    "periodId": "period_2026_02",
+    "realisation": 0,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Commercial_Expérience_client_NPS_period_2026_03",
+    "kpiId": "Commercial_Expérience_client_NPS",
+    "periodId": "period_2026_03",
+    "realisation": 0,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Commercial_Expérience_client_NPS_period_2026_04",
+    "kpiId": "Commercial_Expérience_client_NPS",
+    "periodId": "period_2026_04",
+    "realisation": 1.4,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Commercial_Expérience_client_NPS_period_2026_05",
+    "kpiId": "Commercial_Expérience_client_NPS",
+    "periodId": "period_2026_05",
+    "realisation": 1.2,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Commercial_Expérience_client_NPS_period_2026_06",
+    "kpiId": "Commercial_Expérience_client_NPS",
+    "periodId": "period_2026_06",
+    "realisation": 0,
+    "objectif": 100,
+    "comment": "",
+    "validation": "pending"
+  },
+  {
+    "id": "result_Commercial_Expérience_client_Mystery_Shopper_period_2026_01",
+    "kpiId": "Commercial_Expérience_client_Mystery_Shopper",
+    "periodId": "period_2026_01",
+    "realisation": 100.6,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Commercial_Expérience_client_Mystery_Shopper_period_2026_02",
+    "kpiId": "Commercial_Expérience_client_Mystery_Shopper",
+    "periodId": "period_2026_02",
+    "realisation": 95.5,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Commercial_Expérience_client_Mystery_Shopper_period_2026_03",
+    "kpiId": "Commercial_Expérience_client_Mystery_Shopper",
+    "periodId": "period_2026_03",
+    "realisation": 98.0,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Commercial_Expérience_client_Mystery_Shopper_period_2026_04",
+    "kpiId": "Commercial_Expérience_client_Mystery_Shopper",
+    "periodId": "period_2026_04",
+    "realisation": 99.4,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Commercial_Expérience_client_Mystery_Shopper_period_2026_05",
+    "kpiId": "Commercial_Expérience_client_Mystery_Shopper",
+    "periodId": "period_2026_05",
+    "realisation": 90.5,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Commercial_Expérience_client_Mystery_Shopper_period_2026_06",
+    "kpiId": "Commercial_Expérience_client_Mystery_Shopper",
+    "periodId": "period_2026_06",
+    "realisation": 98.1,
+    "objectif": 100,
+    "comment": "",
+    "validation": "pending"
+  },
+  {
+    "id": "result_Commercial_Expérience_client_FWA_period_2026_01",
+    "kpiId": "Commercial_Expérience_client_FWA",
+    "periodId": "period_2026_01",
+    "realisation": 104.7,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Commercial_Expérience_client_FWA_period_2026_02",
+    "kpiId": "Commercial_Expérience_client_FWA",
+    "periodId": "period_2026_02",
+    "realisation": 103.5,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Commercial_Expérience_client_FWA_period_2026_03",
+    "kpiId": "Commercial_Expérience_client_FWA",
+    "periodId": "period_2026_03",
+    "realisation": 109.6,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Commercial_Expérience_client_FWA_period_2026_04",
+    "kpiId": "Commercial_Expérience_client_FWA",
+    "periodId": "period_2026_04",
+    "realisation": 105.4,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Commercial_Expérience_client_FWA_period_2026_05",
+    "kpiId": "Commercial_Expérience_client_FWA",
+    "periodId": "period_2026_05",
+    "realisation": 113.7,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Commercial_Expérience_client_FWA_period_2026_06",
+    "kpiId": "Commercial_Expérience_client_FWA",
+    "periodId": "period_2026_06",
+    "realisation": 102.8,
+    "objectif": 100,
+    "comment": "",
+    "validation": "pending"
+  },
+  {
+    "id": "result_Technique_B2C_MTTD_XDSL_period_2026_01",
+    "kpiId": "Technique_B2C_MTTD_XDSL",
+    "periodId": "period_2026_01",
+    "realisation": 14.5,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2C_MTTD_XDSL_period_2026_02",
+    "kpiId": "Technique_B2C_MTTD_XDSL",
+    "periodId": "period_2026_02",
+    "realisation": 17.0,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2C_MTTD_XDSL_period_2026_03",
+    "kpiId": "Technique_B2C_MTTD_XDSL",
+    "periodId": "period_2026_03",
+    "realisation": 11.1,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2C_MTTD_XDSL_period_2026_04",
+    "kpiId": "Technique_B2C_MTTD_XDSL",
+    "periodId": "period_2026_04",
+    "realisation": 12.0,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2C_MTTD_XDSL_period_2026_05",
+    "kpiId": "Technique_B2C_MTTD_XDSL",
+    "periodId": "period_2026_05",
+    "realisation": 15.5,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2C_MTTD_XDSL_period_2026_06",
+    "kpiId": "Technique_B2C_MTTD_XDSL",
+    "periodId": "period_2026_06",
+    "realisation": 10.3,
+    "objectif": 100,
+    "comment": "",
+    "validation": "pending"
+  },
+  {
+    "id": "result_Technique_B2C_MTTDA_GPON_period_2026_01",
+    "kpiId": "Technique_B2C_MTTDA_GPON",
+    "periodId": "period_2026_01",
+    "realisation": 48.0,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2C_MTTDA_GPON_period_2026_02",
+    "kpiId": "Technique_B2C_MTTDA_GPON",
+    "periodId": "period_2026_02",
+    "realisation": 40.9,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2C_MTTDA_GPON_period_2026_03",
+    "kpiId": "Technique_B2C_MTTDA_GPON",
+    "periodId": "period_2026_03",
+    "realisation": 42.9,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2C_MTTDA_GPON_period_2026_04",
+    "kpiId": "Technique_B2C_MTTDA_GPON",
+    "periodId": "period_2026_04",
+    "realisation": 47.6,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2C_MTTDA_GPON_period_2026_05",
+    "kpiId": "Technique_B2C_MTTDA_GPON",
+    "periodId": "period_2026_05",
+    "realisation": 49.1,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2C_MTTDA_GPON_period_2026_06",
+    "kpiId": "Technique_B2C_MTTDA_GPON",
+    "periodId": "period_2026_06",
+    "realisation": 49.7,
+    "objectif": 100,
+    "comment": "",
+    "validation": "pending"
+  },
+  {
+    "id": "result_Technique_B2C_MTTR_B2C_period_2026_01",
+    "kpiId": "Technique_B2C_MTTR_B2C",
+    "periodId": "period_2026_01",
+    "realisation": 50.8,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2C_MTTR_B2C_period_2026_02",
+    "kpiId": "Technique_B2C_MTTR_B2C",
+    "periodId": "period_2026_02",
+    "realisation": 48.9,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2C_MTTR_B2C_period_2026_03",
+    "kpiId": "Technique_B2C_MTTR_B2C",
+    "periodId": "period_2026_03",
+    "realisation": 52.3,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2C_MTTR_B2C_period_2026_04",
+    "kpiId": "Technique_B2C_MTTR_B2C",
+    "periodId": "period_2026_04",
+    "realisation": 48.8,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2C_MTTR_B2C_period_2026_05",
+    "kpiId": "Technique_B2C_MTTR_B2C",
+    "periodId": "period_2026_05",
+    "realisation": 52.3,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2C_MTTR_B2C_period_2026_06",
+    "kpiId": "Technique_B2C_MTTR_B2C",
+    "periodId": "period_2026_06",
+    "realisation": 56.1,
+    "objectif": 100,
+    "comment": "",
+    "validation": "pending"
+  },
+  {
+    "id": "result_Technique_B2C_TRD_period_2026_01",
+    "kpiId": "Technique_B2C_TRD",
+    "periodId": "period_2026_01",
+    "realisation": 75.7,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2C_TRD_period_2026_02",
+    "kpiId": "Technique_B2C_TRD",
+    "periodId": "period_2026_02",
+    "realisation": 78.5,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2C_TRD_period_2026_03",
+    "kpiId": "Technique_B2C_TRD",
+    "periodId": "period_2026_03",
+    "realisation": 83.3,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2C_TRD_period_2026_04",
+    "kpiId": "Technique_B2C_TRD",
+    "periodId": "period_2026_04",
+    "realisation": 85.8,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2C_TRD_period_2026_05",
+    "kpiId": "Technique_B2C_TRD",
+    "periodId": "period_2026_05",
+    "realisation": 77.7,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2C_TRD_period_2026_06",
+    "kpiId": "Technique_B2C_TRD",
+    "periodId": "period_2026_06",
+    "realisation": 74.7,
+    "objectif": 100,
+    "comment": "",
+    "validation": "pending"
+  },
+  {
+    "id": "result_Technique_B2C_TR48H_period_2026_01",
+    "kpiId": "Technique_B2C_TR48H",
+    "periodId": "period_2026_01",
+    "realisation": 62.2,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2C_TR48H_period_2026_02",
+    "kpiId": "Technique_B2C_TR48H",
+    "periodId": "period_2026_02",
+    "realisation": 70.3,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2C_TR48H_period_2026_03",
+    "kpiId": "Technique_B2C_TR48H",
+    "periodId": "period_2026_03",
+    "realisation": 67.4,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2C_TR48H_period_2026_04",
+    "kpiId": "Technique_B2C_TR48H",
+    "periodId": "period_2026_04",
+    "realisation": 68.4,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2C_TR48H_period_2026_05",
+    "kpiId": "Technique_B2C_TR48H",
+    "periodId": "period_2026_05",
+    "realisation": 72.7,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2C_TR48H_period_2026_06",
+    "kpiId": "Technique_B2C_TR48H",
+    "periodId": "period_2026_06",
+    "realisation": 65.6,
+    "objectif": 100,
+    "comment": "",
+    "validation": "pending"
+  },
+  {
+    "id": "result_Technique_B2B_TR8_period_2026_01",
+    "kpiId": "Technique_B2B_TR8",
+    "periodId": "period_2026_01",
+    "realisation": 84.9,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2B_TR8_period_2026_02",
+    "kpiId": "Technique_B2B_TR8",
+    "periodId": "period_2026_02",
+    "realisation": 85.0,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2B_TR8_period_2026_03",
+    "kpiId": "Technique_B2B_TR8",
+    "periodId": "period_2026_03",
+    "realisation": 93.0,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2B_TR8_period_2026_04",
+    "kpiId": "Technique_B2B_TR8",
+    "periodId": "period_2026_04",
+    "realisation": 88.9,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2B_TR8_period_2026_05",
+    "kpiId": "Technique_B2B_TR8",
+    "periodId": "period_2026_05",
+    "realisation": 88.0,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2B_TR8_period_2026_06",
+    "kpiId": "Technique_B2B_TR8",
+    "periodId": "period_2026_06",
+    "realisation": 87.5,
+    "objectif": 100,
+    "comment": "",
+    "validation": "pending"
+  },
+  {
+    "id": "result_Technique_B2B_MTTDA_B2B_period_2026_01",
+    "kpiId": "Technique_B2B_MTTDA_B2B",
+    "periodId": "period_2026_01",
+    "realisation": 55.2,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2B_MTTDA_B2B_period_2026_02",
+    "kpiId": "Technique_B2B_MTTDA_B2B",
+    "periodId": "period_2026_02",
+    "realisation": 49.4,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2B_MTTDA_B2B_period_2026_03",
+    "kpiId": "Technique_B2B_MTTDA_B2B",
+    "periodId": "period_2026_03",
+    "realisation": 48.1,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2B_MTTDA_B2B_period_2026_04",
+    "kpiId": "Technique_B2B_MTTDA_B2B",
+    "periodId": "period_2026_04",
+    "realisation": 52.8,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2B_MTTDA_B2B_period_2026_05",
+    "kpiId": "Technique_B2B_MTTDA_B2B",
+    "periodId": "period_2026_05",
+    "realisation": 46.5,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2B_MTTDA_B2B_period_2026_06",
+    "kpiId": "Technique_B2B_MTTDA_B2B",
+    "periodId": "period_2026_06",
+    "realisation": 52.5,
+    "objectif": 100,
+    "comment": "",
+    "validation": "pending"
+  },
+  {
+    "id": "result_Technique_B2B_MTTR_B2B_period_2026_01",
+    "kpiId": "Technique_B2B_MTTR_B2B",
+    "periodId": "period_2026_01",
+    "realisation": 106.7,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2B_MTTR_B2B_period_2026_02",
+    "kpiId": "Technique_B2B_MTTR_B2B",
+    "periodId": "period_2026_02",
+    "realisation": 100.7,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2B_MTTR_B2B_period_2026_03",
+    "kpiId": "Technique_B2B_MTTR_B2B",
+    "periodId": "period_2026_03",
+    "realisation": 111.4,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2B_MTTR_B2B_period_2026_04",
+    "kpiId": "Technique_B2B_MTTR_B2B",
+    "periodId": "period_2026_04",
+    "realisation": 110.3,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2B_MTTR_B2B_period_2026_05",
+    "kpiId": "Technique_B2B_MTTR_B2B",
+    "periodId": "period_2026_05",
+    "realisation": 103.0,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Technique_B2B_MTTR_B2B_period_2026_06",
+    "kpiId": "Technique_B2B_MTTR_B2B",
+    "periodId": "period_2026_06",
+    "realisation": 106.9,
+    "objectif": 100,
+    "comment": "",
+    "validation": "pending"
+  },
+  {
+    "id": "result_Stratégique_Recouvrement_Encaissement_period_2026_01",
+    "kpiId": "Stratégique_Recouvrement_Encaissement",
+    "periodId": "period_2026_01",
+    "realisation": 77.9,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Stratégique_Recouvrement_Encaissement_period_2026_02",
+    "kpiId": "Stratégique_Recouvrement_Encaissement",
+    "periodId": "period_2026_02",
+    "realisation": 73.4,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Stratégique_Recouvrement_Encaissement_period_2026_03",
+    "kpiId": "Stratégique_Recouvrement_Encaissement",
+    "periodId": "period_2026_03",
+    "realisation": 77.6,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Stratégique_Recouvrement_Encaissement_period_2026_04",
+    "kpiId": "Stratégique_Recouvrement_Encaissement",
+    "periodId": "period_2026_04",
+    "realisation": 75.3,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Stratégique_Recouvrement_Encaissement_period_2026_05",
+    "kpiId": "Stratégique_Recouvrement_Encaissement",
+    "periodId": "period_2026_05",
+    "realisation": 75.4,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Stratégique_Recouvrement_Encaissement_period_2026_06",
+    "kpiId": "Stratégique_Recouvrement_Encaissement",
+    "periodId": "period_2026_06",
+    "realisation": 86.7,
+    "objectif": 100,
+    "comment": "",
+    "validation": "pending"
+  },
+  {
+    "id": "result_Stratégique_Recouvrement_Jugement_period_2026_01",
+    "kpiId": "Stratégique_Recouvrement_Jugement",
+    "periodId": "period_2026_01",
+    "realisation": 104.8,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Stratégique_Recouvrement_Jugement_period_2026_02",
+    "kpiId": "Stratégique_Recouvrement_Jugement",
+    "periodId": "period_2026_02",
+    "realisation": 103.7,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Stratégique_Recouvrement_Jugement_period_2026_03",
+    "kpiId": "Stratégique_Recouvrement_Jugement",
+    "periodId": "period_2026_03",
+    "realisation": 101.1,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Stratégique_Recouvrement_Jugement_period_2026_04",
+    "kpiId": "Stratégique_Recouvrement_Jugement",
+    "periodId": "period_2026_04",
+    "realisation": 96.1,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Stratégique_Recouvrement_Jugement_period_2026_05",
+    "kpiId": "Stratégique_Recouvrement_Jugement",
+    "periodId": "period_2026_05",
+    "realisation": 102.8,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Stratégique_Recouvrement_Jugement_period_2026_06",
+    "kpiId": "Stratégique_Recouvrement_Jugement",
+    "periodId": "period_2026_06",
+    "realisation": 105.3,
+    "objectif": 100,
+    "comment": "",
+    "validation": "pending"
+  },
+  {
+    "id": "result_Stratégique_Recouvrement_POS_period_2026_01",
+    "kpiId": "Stratégique_Recouvrement_POS",
+    "periodId": "period_2026_01",
+    "realisation": 27.6,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Stratégique_Recouvrement_POS_period_2026_02",
+    "kpiId": "Stratégique_Recouvrement_POS",
+    "periodId": "period_2026_02",
+    "realisation": 31.0,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Stratégique_Recouvrement_POS_period_2026_03",
+    "kpiId": "Stratégique_Recouvrement_POS",
+    "periodId": "period_2026_03",
+    "realisation": 36.2,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Stratégique_Recouvrement_POS_period_2026_04",
+    "kpiId": "Stratégique_Recouvrement_POS",
+    "periodId": "period_2026_04",
+    "realisation": 31.3,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Stratégique_Recouvrement_POS_period_2026_05",
+    "kpiId": "Stratégique_Recouvrement_POS",
+    "periodId": "period_2026_05",
+    "realisation": 26.3,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Stratégique_Recouvrement_POS_period_2026_06",
+    "kpiId": "Stratégique_Recouvrement_POS",
+    "periodId": "period_2026_06",
+    "realisation": 26.6,
+    "objectif": 100,
+    "comment": "",
+    "validation": "pending"
+  },
+  {
+    "id": "result_Stratégique_Recouvrement_PV_Signés_period_2026_01",
+    "kpiId": "Stratégique_Recouvrement_PV_Signés",
+    "periodId": "period_2026_01",
+    "realisation": 60.4,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Stratégique_Recouvrement_PV_Signés_period_2026_02",
+    "kpiId": "Stratégique_Recouvrement_PV_Signés",
+    "periodId": "period_2026_02",
+    "realisation": 54.1,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Stratégique_Recouvrement_PV_Signés_period_2026_03",
+    "kpiId": "Stratégique_Recouvrement_PV_Signés",
+    "periodId": "period_2026_03",
+    "realisation": 50.6,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Stratégique_Recouvrement_PV_Signés_period_2026_04",
+    "kpiId": "Stratégique_Recouvrement_PV_Signés",
+    "periodId": "period_2026_04",
+    "realisation": 61.4,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Stratégique_Recouvrement_PV_Signés_period_2026_05",
+    "kpiId": "Stratégique_Recouvrement_PV_Signés",
+    "periodId": "period_2026_05",
+    "realisation": 52.9,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Stratégique_Recouvrement_PV_Signés_period_2026_06",
+    "kpiId": "Stratégique_Recouvrement_PV_Signés",
+    "periodId": "period_2026_06",
+    "realisation": 53.4,
+    "objectif": 100,
+    "comment": "",
+    "validation": "pending"
+  },
+  {
+    "id": "result_Financier_P&L_EBITDA_period_2026_01",
+    "kpiId": "Financier_P&L_EBITDA",
+    "periodId": "period_2026_01",
+    "realisation": 100.7,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Financier_P&L_EBITDA_period_2026_02",
+    "kpiId": "Financier_P&L_EBITDA",
+    "periodId": "period_2026_02",
+    "realisation": 95.8,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Financier_P&L_EBITDA_period_2026_03",
+    "kpiId": "Financier_P&L_EBITDA",
+    "periodId": "period_2026_03",
+    "realisation": 97.6,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Financier_P&L_EBITDA_period_2026_04",
+    "kpiId": "Financier_P&L_EBITDA",
+    "periodId": "period_2026_04",
+    "realisation": 95.6,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Financier_P&L_EBITDA_period_2026_05",
+    "kpiId": "Financier_P&L_EBITDA",
+    "periodId": "period_2026_05",
+    "realisation": 103.6,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Financier_P&L_EBITDA_period_2026_06",
+    "kpiId": "Financier_P&L_EBITDA",
+    "periodId": "period_2026_06",
+    "realisation": 99.4,
+    "objectif": 100,
+    "comment": "",
+    "validation": "pending"
+  },
+  {
+    "id": "result_Financier_P&L_CA_period_2026_01",
+    "kpiId": "Financier_P&L_CA",
+    "periodId": "period_2026_01",
+    "realisation": 92.0,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Financier_P&L_CA_period_2026_02",
+    "kpiId": "Financier_P&L_CA",
+    "periodId": "period_2026_02",
+    "realisation": 90.8,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Financier_P&L_CA_period_2026_03",
+    "kpiId": "Financier_P&L_CA",
+    "periodId": "period_2026_03",
+    "realisation": 99.7,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Financier_P&L_CA_period_2026_04",
+    "kpiId": "Financier_P&L_CA",
+    "periodId": "period_2026_04",
+    "realisation": 95.0,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Financier_P&L_CA_period_2026_05",
+    "kpiId": "Financier_P&L_CA",
+    "periodId": "period_2026_05",
+    "realisation": 101.7,
+    "objectif": 100,
+    "comment": "",
+    "validation": "validated"
+  },
+  {
+    "id": "result_Financier_P&L_CA_period_2026_06",
+    "kpiId": "Financier_P&L_CA",
+    "periodId": "period_2026_06",
+    "realisation": 89.5,
+    "objectif": 100,
+    "comment": "",
+    "validation": "pending"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "domain_commercial",
+    "name": "Commercial"
+  },
+  {
+    "id": "domain_technique",
+    "name": "Technique"
+  },
+  {
+    "id": "domain_strat_gique",
+    "name": "Stratégique"
+  },
+  {
+    "id": "domain_financier",
+    "name": "Financier"
+  }
+]

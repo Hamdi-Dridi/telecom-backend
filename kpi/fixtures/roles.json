@@ -1,0 +1,37 @@
+[
+  {
+    "id": "role_admin",
+    "key": "admin",
+    "name": "Administrateur",
+    "description": "Accès complet : utilisateurs, rôles, régions, périodes, domaines, groupes, KPIs, seuils.",
+    "permissions": [
+      "users:crud",
+      "roles:crud",
+      "regions:crud",
+      "periods:crud",
+      "domains:crud",
+      "groups:crud",
+      "kpis:crud",
+      "thresholds:crud",
+      "kpi_results:crud"
+    ]
+  },
+  {
+    "id": "role_manager",
+    "key": "manager",
+    "name": "Regional Manager",
+    "description": "Gère les résultats KPI (réalisations, commentaires) de sa région.",
+    "permissions": [
+      "kpi_results:crud"
+    ]
+  },
+  {
+    "id": "role_viewer",
+    "key": "viewer",
+    "name": "Viewer",
+    "description": "Lecture seule sur l'ensemble du tableau de bord.",
+    "permissions": [
+      "read_only"
+    ]
+  }
+]

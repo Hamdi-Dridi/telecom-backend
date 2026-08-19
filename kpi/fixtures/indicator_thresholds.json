@@ -1,0 +1,14 @@
+[
+  {
+    "id": "threshold_default",
+    "kpiId": null,
+    "greenMin": 100,
+    "orangeMin": 80,
+    "label": "Seuils par défaut",
+    "colors": {
+      "green": "#2FC299",
+      "orange": "#F7A94A",
+      "red": "#EF5A6F"
+    }
+  }
+]

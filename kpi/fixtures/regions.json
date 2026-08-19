@@ -1,0 +1,18 @@
+[
+  {
+    "id": "region_grand_tunis",
+    "name": "Grand Tunis"
+  },
+  {
+    "id": "region_sfax",
+    "name": "Sfax"
+  },
+  {
+    "id": "region_sousse",
+    "name": "Sousse"
+  },
+  {
+    "id": "region_nord_ouest",
+    "name": "Nord-Ouest"
+  }
+]
