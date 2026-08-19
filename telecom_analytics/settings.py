@@ -125,6 +125,7 @@ else:
     CORS_ALLOW_ALL_ORIGINS = True  # dev only — set CORS_ALLOWED_ORIGINS in production
 
 if not DEBUG:
+    SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
     SECURE_SSL_REDIRECT = os.environ.get('SECURE_SSL_REDIRECT', 'true').lower() == 'true'
     SESSION_COOKIE_SECURE = True
     CSRF_COOKIE_SECURE = True
